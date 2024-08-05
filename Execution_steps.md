@@ -11,7 +11,7 @@
 `./your_bittorrent.sh info sample.torrent`
 
 - Discover peers
-`./your_bittorrent.sh peers ~/OneDrive/Desktop/codecrafters-bittorrent-python/sample.torrent`
+`./your_bittorrent.sh peers ~/<path to sample.torrent>`
 
 - Peer Handshake
 `./your_bittorrent.sh handshake sample.torrent <peer_ip>:<peer_port>`
