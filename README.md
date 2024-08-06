@@ -33,3 +33,6 @@ Note: This section is for stages 2 and beyond.
    `app/main.py`.
 1. Commit your changes and run `git push origin master` to submit your solution
    to CodeCrafters. Test output will be streamed to your terminal.
+
+# Execution commands
+In case you need help with the execution steps with commands navigate to [Execution command](https://github.com/dhirajchaurasiya10/Codecrafters_Bit-torrent/blob/main/Execution_steps.md)
